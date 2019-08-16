@@ -1,0 +1,18 @@
+[package]
+name = "cms-portal-rust"
+version = "0.1.0"
+authors = ["ismail.tekin <ismail.tekin@trendyol.com>"]
+edition = "2018"
+
+[dependencies]
+actix = "0.8.3"
+actix-web = {version = "1.0.5", features = ["ssl"]}
+actix-http = "0.2.9"
+actix-server = "0.6.0"
+actix-rt = "0.2.4"
+futures = "0.1.28"
+bytes = "0.4.12"
+serde = "1.0.98"
+serde_urlencoded = "0.6.1"
+serde_json = "1.0.40"
+itertools = "0.8.0"

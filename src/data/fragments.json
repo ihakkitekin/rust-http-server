@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://static.dsmcdn.com/frontend/web/poc/bundle.9f397ba0e7311b38f261.js",
+    "version": "1.5.0",
+    "app": "browsing",
+    "name": "campaigns"
+  },
+  {
+    "url": "https://static.dsmcdn.com/frontend/web/poc/bundle.9f397ba0e7311b38f261.js",
+    "version": "1.8.0",
+    "app": "account",
+    "name": "favorites"
+  },
+  {
+    "url": "https://static.dsmcdn.com/frontend/web/poc/bundle.9f397ba0e7311b38f261.js",
+    "version": "1.8.0",
+    "app": "account",
+    "name": "collections"
+  },
+  {
+    "url": "https://static.dsmcdn.com/frontend/web/poc/bundle.9f397ba0e7311b38f261.js",
+    "version": "1.8.0",
+    "app": "browsing",
+    "name": "campaigns"
+  },
+  {
+    "url": "https://static.dsmcdn.com/frontend/web/poc/bundle.69a492784a94a4db69c4.js",
+    "version": "1.0.0",
+    "app": "browsing",
+    "name": "navigation"
+  },
+  {
+    "url": "https://static.dsmcdn.com/frontend/web/poc/bundle.69a492784a94a4db69c4.js",
+    "version": "1.0.0",
+    "app": "browsing",
+    "name": "homepage"
+  },
+  {
+    "url": "https://static.dsmcdn.com/frontend/web/poc/bundle.69a492784a94a4db69c4.js",
+    "version": "1.1.0",
+    "app": "browsing",
+    "name": "navigation"
+  },
+  {
+    "url": "https://static.dsmcdn.com/frontend/web/poc/bundle.9f397ba0e7311b38f261.js",
+    "version": "1.9.0",
+    "app": "browsing",
+    "name": "campaigns"
+  }
+]

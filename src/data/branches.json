@@ -1,0 +1,64 @@
+{
+  "size": 7,
+  "limit": 25,
+  "isLastPage": true,
+  "values": [
+    {
+      "id": "refs/heads/fragments/account/collections",
+      "displayId": "fragments/account/collections",
+      "type": "BRANCH",
+      "latestCommit": "33c039b0da9b39d669185624be43b6fe5939c3a9",
+      "latestChangeset": "33c039b0da9b39d669185624be43b6fe5939c3a9",
+      "isDefault": false
+    },
+    {
+      "id": "refs/heads/fragments/account/favorites",
+      "displayId": "fragments/account/favorites",
+      "type": "BRANCH",
+      "latestCommit": "3e28a06d8a2e60887c66573075d2cdf9fb0e683e",
+      "latestChangeset": "3e28a06d8a2e60887c66573075d2cdf9fb0e683e",
+      "isDefault": false
+    },
+    {
+      "id": "refs/heads/fragments/browsing/boutique-detail",
+      "displayId": "fragments/browsing/boutique-detail",
+      "type": "BRANCH",
+      "latestCommit": "bb4f6abf1d4f080304877ae31178feccb4bb9822",
+      "latestChangeset": "bb4f6abf1d4f080304877ae31178feccb4bb9822",
+      "isDefault": false
+    },
+    {
+      "id": "refs/heads/fragments/browsing/campaigns",
+      "displayId": "fragments/browsing/campaigns",
+      "type": "BRANCH",
+      "latestCommit": "58b0a1b37fdcaae1898c9562e0a38379962691c3",
+      "latestChangeset": "58b0a1b37fdcaae1898c9562e0a38379962691c3",
+      "isDefault": false
+    },
+    {
+      "id": "refs/heads/fragments/browsing/homepage",
+      "displayId": "fragments/browsing/homepage",
+      "type": "BRANCH",
+      "latestCommit": "f9346007999ffabee9f4803550cab184d6561e65",
+      "latestChangeset": "f9346007999ffabee9f4803550cab184d6561e65",
+      "isDefault": false
+    },
+    {
+      "id": "refs/heads/fragments/browsing/navigation",
+      "displayId": "fragments/browsing/navigation",
+      "type": "BRANCH",
+      "latestCommit": "3399189a4fc0c739a803fe31acfed7d368b0049e",
+      "latestChangeset": "3399189a4fc0c739a803fe31acfed7d368b0049e",
+      "isDefault": false
+    },
+    {
+      "id": "refs/heads/fragments/default",
+      "displayId": "fragments/default",
+      "type": "BRANCH",
+      "latestCommit": "a0953631d7c6ecd3505276ea66a2721a8640aa4b",
+      "latestChangeset": "a0953631d7c6ecd3505276ea66a2721a8640aa4b",
+      "isDefault": false
+    }
+  ],
+  "start": 0
+}
